@@ -1,0 +1,13 @@
+{
+    "Name":  "WacomScrollFlow",
+    "Owner":  "HollisMeynell",
+    "Description":  "Windows-only pen scrolling with cursor locking, automatic horizontal gesture switching, and tip-click suppression until lift after button release.",
+    "PluginVersion":  "0.1.2.0",
+    "SupportedDriverVersion":  "0.6.7.0",
+    "RepositoryUrl":  "https://github.com/HollisMeynell/OTD_WacomScrollFlow",
+    "DownloadUrl":  "https://github.com/HollisMeynell/OTD_WacomScrollFlow/releases/download/v0.1.2/WacomScrollFlow-0.1.2-win.zip",
+    "CompressionFormat":  "zip",
+    "SHA256":  "d1658b6384f0a4c236dd2a1a14bd882cc8ff3b5cf770b2e676bdcdb1dd147b70",
+    "WikiUrl":  "https://github.com/HollisMeynell/OTD_WacomScrollFlow/blob/main/README.md",
+    "LicenseIdentifier":  "MIT-0"
+}
